@@ -24,7 +24,7 @@ npm i nodemon --save
 
 
 
-* **Dairo Yesid Rincon Carreño** - *Codigo: 201821086* - 
+* **Yesid Rincon ** 
 
 
 
